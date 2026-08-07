@@ -1,7 +1,7 @@
 # El Camino de la Luz v1.1 - Dataset Maestro 5 Capas
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21541281.svg)](https://doi.org/10.5281/zenodo.21541281)
-**DOI:** https://doi.org/10.5281/zenodo.21541281
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21541280.svg)](https://doi.org/10.5281/zenodo.21541280)
+DOI: https://doi.org/10.5281/zenodo.21541280
 
 Dataset unificado de 28,800 filas x 17 columnas de clima espacial 2003-2024, con 5 capas: 3 de datos medidos (eventos solares, medio interplanetario y geomagnético) y 2 de estimaciones derivadas (GNSS y arrastre satelital/GICs). Ver la sección **"Naturaleza de los datos"** más abajo antes de usar este dataset en modelos o análisis.
 
